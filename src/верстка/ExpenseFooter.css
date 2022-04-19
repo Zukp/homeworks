@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.cont-footer{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.ul-footer{
+    display: flex;
+}
+.ul-footer li{
+    list-style: none;
+    padding-left: 50px;
+}
+.ul-footer li a{
+    text-decoration:none;
+    color: black;
+}

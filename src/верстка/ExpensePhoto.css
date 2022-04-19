@@ -1,0 +1,23 @@
+.cont-photo div img{
+    border-radius: 500px 0px 500px 500px;
+    width: 400px;
+    height: 400px;
+
+}
+.cont-photo {
+    display: flex;
+    justify-content: space-around;
+}
+.cont-photo div p{
+    width: 200px;
+    margin-top: 12px;
+}
+.cont-photo button {
+    width: 181px;
+    height: 62px;
+    color: #FFFFFF;
+    background: #3E82FC;
+    margin-top: 32px;
+    border-radius: 40px;
+    border: none;
+}
